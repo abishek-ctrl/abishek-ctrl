@@ -8,29 +8,29 @@ As a dedicated student in the field of technology, I am currently pursuing my M.
 
 ## Skills & Technologies
 
-pytorch,tensorflow,azure,nodejs,fastapi,sqlite,mysql,mongodb,github,cpp,py,django,go,redis
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,azure,nodejs,fastapi,sqlite,mysql,mongodb,github,cpp,py,django,go,redis&perline=8)](https://skillicons.dev)
 
 ## Top Projects
 
-- [read-viz](https://github.com/abishek-ctrl/read-viz): A tool that uses Google Gemini and LangGraph to generate a visual graph of a paper's structure, complete with section summaries, extracted images, and tables. ⭐️ 0 stars
-- [litevec](https://github.com/abishek-ctrl/litevec): A lightweight, local vector database implementation designed for semantic search and similarity retrieval of high-dimensional vector embeddings. ⭐️ 1 star
-- [multiagent-soc](https://github.com/abishek-ctrl/multiagent-soc): An autonomous multi-agent AI system that simulates red and blue teams to detect, classify, and mitigate cyber threats from network data. ⭐️ 0 stars
-- [Agentic-RAG-Thru-Langgraph](https://github.com/abishek-ctrl/Agentic-RAG-Thru-Langgraph): A web app that allows users to chat with an uploaded PDF file using LangChain functionalities and LLMs. ⭐️ 1 star
-- [LostAndFound](https://github.com/abishek-ctrl/LostAndFound): A React and NodeJS based web application for a lost and found social platform. ⭐️ 0 stars
+[![read-viz](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=read-viz&theme=dark)](https://github.com/abishek-ctrl/read-viz)
+[![litevec](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=litevec&theme=dark)](https://github.com/abishek-ctrl/litevec)
+[![multiagent-soc](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=multiagent-soc&theme=dark)](https://github.com/abishek-ctrl/multiagent-soc)
+[![Agentic-RAG-Thru-Langgraph](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=Agentic-RAG-Thru-Langgraph&theme=dark)](https://github.com/abishek-ctrl/Agentic-RAG-Thru-Langgraph)
+[![LostAndFound](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=LostAndFound&theme=dark)](https://github.com/abishek-ctrl/LostAndFound)
 
 ## GitHub Stats
+#### 🌟 Public Repositories: 14  👥 Followers: 6  👤 Following: 13  
 
-🌟 Public Repositories: 14  
-👥 Followers: 6  
-👤 Following: 13  
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishek-ctrl&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-ctrl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Recent Activity
 
 - Created [read-viz](https://github.com/abishek-ctrl/read-viz) on July 27, 2025.
 - Pushed changes to [litevec](https://github.com/abishek-ctrl/litevec) on July 9, 2025.
-- Contributed to [book-recommender-system](https://github.com/abishek-ctrl/book-recommender-system) on July 20, 2025.
+- Contributed to [multiagent-soc](https://github.com/abishek-ctrl/multiagent-soc) on June 13, 2025.
 
 ## Connect with Me
 
-{"linkedin":"https://www.linkedin.com/in/abishekcodes","twitter":"https://twitter.com/abishekcodes","instagram":"https://www.instagram.com/abishekehh/","generic":"https://leetcode.com/abishek-ctrl/"}
+<a href="https://www.linkedin.com/in/abishekcodes" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://twitter.com/abishekcodes" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.instagram.com/abishekehh/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://leetcode.com/abishek-ctrl/" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a>
