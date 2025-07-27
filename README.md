@@ -1,26 +1,36 @@
-<h1 align="center">Hi 👋, I'm Abishek AK</h1>
-<h3 align="center">Enthusiastic ML Developer</h3>
+## Hi there! 👋
 
-- 🔭 I’m currently working on **Open Source Projects**
+I'm Abishek M, a Final Year Integrated M.Tech Student specializing in Machine Learning. Passionate about stats and numbers all around.
 
-- 👨‍💻 All of my projects are available at [https://github.com/abishek-ctrl](https://github.com/abishek-ctrl)
+## About Me
 
-- 📫 How to reach me **amabishek02@gmail.com**
+As a dedicated student in the field of technology, I am currently pursuing my M.Tech degree while exploring various domains of machine learning and data science. I am open to opportunities and collaborations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/abishekcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abishekcodes" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abishekcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abishekcodes" height="30" width="40" /></a>
-<a href="https://kaggle.com/abishekak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abishekak" height="30" width="40" /></a>
-<a href="https://instagram.com/abishekehh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abishekehh" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abishekcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abishekcodes" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abishek-ctrl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abishek-ctrl" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abishekam2020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abishekam2020" height="30" width="40" /></a>
-</p>
+## Skills & Technologies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+pytorch,tensorflow,azure,nodejs,fastapi,sqlite,mysql,mongodb,github,cpp,py,django,go,redis
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abishek-ctrl&show_icons=true&locale=en&layout=compact" alt="abishek-ctrl" /></p>
+## Top Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abishek-ctrl&show_icons=true&locale=en" alt="abishek-ctrl" /></p>
+- [read-viz](https://github.com/abishek-ctrl/read-viz): A tool that uses Google Gemini and LangGraph to generate a visual graph of a paper's structure, complete with section summaries, extracted images, and tables. ⭐️ 0 stars
+- [litevec](https://github.com/abishek-ctrl/litevec): A lightweight, local vector database implementation designed for semantic search and similarity retrieval of high-dimensional vector embeddings. ⭐️ 1 star
+- [multiagent-soc](https://github.com/abishek-ctrl/multiagent-soc): An autonomous multi-agent AI system that simulates red and blue teams to detect, classify, and mitigate cyber threats from network data. ⭐️ 0 stars
+- [Agentic-RAG-Thru-Langgraph](https://github.com/abishek-ctrl/Agentic-RAG-Thru-Langgraph): A web app that allows users to chat with an uploaded PDF file using LangChain functionalities and LLMs. ⭐️ 1 star
+- [LostAndFound](https://github.com/abishek-ctrl/LostAndFound): A React and NodeJS based web application for a lost and found social platform. ⭐️ 0 stars
+
+## GitHub Stats
+
+🌟 Public Repositories: 14  
+👥 Followers: 6  
+👤 Following: 13  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishek-ctrl&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Created [read-viz](https://github.com/abishek-ctrl/read-viz) on July 27, 2025.
+- Pushed changes to [litevec](https://github.com/abishek-ctrl/litevec) on July 9, 2025.
+- Contributed to [book-recommender-system](https://github.com/abishek-ctrl/book-recommender-system) on July 20, 2025.
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/abishekcodes","twitter":"https://twitter.com/abishekcodes","instagram":"https://www.instagram.com/abishekehh/","generic":"https://leetcode.com/abishek-ctrl/"}
