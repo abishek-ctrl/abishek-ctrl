@@ -1,36 +1,15 @@
-## Hi there! 👋
 
-I'm Abishek M, a Final Year Integrated M.Tech Student specializing in Machine Learning. Passionate about stats and numbers all around.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abishekcodes) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://twitter.com/abishekcodes) 
 
-## About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Nim](https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=abishek-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=abishek-ctrl&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=abishek-ctrl&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-As a dedicated student in the field of technology, I am currently pursuing my M.Tech degree while exploring various domains of machine learning and data science. I am open to opportunities and collaborations.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=abishek-ctrl&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-## Skills & Technologies
-
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,azure,nodejs,fastapi,sqlite,mysql,mongodb,github,cpp,py,django,go,redis&perline=8)](https://skillicons.dev)
-
-## Top Projects
-
-[![read-viz](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=read-viz&theme=dark)](https://github.com/abishek-ctrl/read-viz)
-[![litevec](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=litevec&theme=dark)](https://github.com/abishek-ctrl/litevec)
-[![multiagent-soc](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=multiagent-soc&theme=dark)](https://github.com/abishek-ctrl/multiagent-soc)
-[![Agentic-RAG-Thru-Langgraph](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=Agentic-RAG-Thru-Langgraph&theme=dark)](https://github.com/abishek-ctrl/Agentic-RAG-Thru-Langgraph)
-[![LostAndFound](https://github-readme-stats.vercel.app/api/pin/?username=abishek-ctrl&repo=LostAndFound&theme=dark)](https://github.com/abishek-ctrl/LostAndFound)
-
-## GitHub Stats
-#### 🌟 Public Repositories: 14  👥 Followers: 6  👤 Following: 13  
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abishek-ctrl&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abishek-ctrl&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-## Recent Activity
-
-- Created [read-viz](https://github.com/abishek-ctrl/read-viz) on July 27, 2025.
-- Pushed changes to [litevec](https://github.com/abishek-ctrl/litevec) on July 9, 2025.
-- Contributed to [multiagent-soc](https://github.com/abishek-ctrl/multiagent-soc) on June 13, 2025.
-
-## Connect with Me
-
-<a href="https://www.linkedin.com/in/abishekcodes" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://twitter.com/abishekcodes" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.instagram.com/abishekehh/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://leetcode.com/abishek-ctrl/" target="_blank" rel="noopener noreferrer"><Icon /> Generic</a>
+---
